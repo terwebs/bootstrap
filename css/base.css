@@ -1,0 +1,30 @@
+body {
+  height: 100%;
+
+  background-color: #232323;
+} 
+
+.navbar-inverse {
+  margin-bottom: 0px;
+}
+.jumbotron {
+	padding: 0px;
+	margin-top: 0;
+  	margin-bottom: 40px;
+  }
+.nav-sidebar > li > a {
+  color: #999;
+}
+ .lead {
+ 	color: #ffffff;
+
+ 	font-size: 15px;
+ }
+ .row{
+ 	margin: 0;
+ }
+ .preg-margin{
+	margin-right:400px;
+	margin-left:400px;
+ }
+
